@@ -1,0 +1,10 @@
+C:\Users\ana_c\Documents\RTC\3_quarter\CSI155-OOP_CSharp\Poem_Generator\Poem_Generator\bin\Debug\Poem_Generator.exe.config
+C:\Users\ana_c\Documents\RTC\3_quarter\CSI155-OOP_CSharp\Poem_Generator\Poem_Generator\bin\Debug\Poem_Generator.exe
+C:\Users\ana_c\Documents\RTC\3_quarter\CSI155-OOP_CSharp\Poem_Generator\Poem_Generator\bin\Debug\Poem_Generator.pdb
+C:\Users\ana_c\Documents\RTC\3_quarter\CSI155-OOP_CSharp\Poem_Generator\Poem_Generator\obj\Debug\Poem_Generator.csprojAssemblyReference.cache
+C:\Users\ana_c\Documents\RTC\3_quarter\CSI155-OOP_CSharp\Poem_Generator\Poem_Generator\obj\Debug\Poem_Generator.Form1.resources
+C:\Users\ana_c\Documents\RTC\3_quarter\CSI155-OOP_CSharp\Poem_Generator\Poem_Generator\obj\Debug\Poem_Generator.Properties.Resources.resources
+C:\Users\ana_c\Documents\RTC\3_quarter\CSI155-OOP_CSharp\Poem_Generator\Poem_Generator\obj\Debug\Poem_Generator.csproj.GenerateResource.cache
+C:\Users\ana_c\Documents\RTC\3_quarter\CSI155-OOP_CSharp\Poem_Generator\Poem_Generator\obj\Debug\Poem_Generator.csproj.CoreCompileInputs.cache
+C:\Users\ana_c\Documents\RTC\3_quarter\CSI155-OOP_CSharp\Poem_Generator\Poem_Generator\obj\Debug\Poem_Generator.exe
+C:\Users\ana_c\Documents\RTC\3_quarter\CSI155-OOP_CSharp\Poem_Generator\Poem_Generator\obj\Debug\Poem_Generator.pdb
